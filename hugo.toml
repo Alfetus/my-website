@@ -1,0 +1,3 @@
+title = "My Hugo Website"
+theme = "ananke"
+baseURL = "https://alfetus.github.io/my-website1/"
