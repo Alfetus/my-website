@@ -4,4 +4,7 @@ draft = true
 title = 'My First Post'
 theme = 'ananke'
 +++
-這是我的第一個github 網頁，請多多指教!
+
+這是我的第一個GitHub網頁，請多多指教！
+
+[前往第二頁](second-page.md)
