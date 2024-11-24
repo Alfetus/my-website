@@ -5,10 +5,13 @@
     <loc>http://localhost:1313/my-website1/posts/my-first-post/</loc>
     <lastmod>2024-11-24T03:25:40+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website1/</loc>
+    <loc>http://localhost:1313/my-website1/posts/</loc>
     <lastmod>2024-11-24T03:25:40+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website1/posts/</loc>
+    <loc>http://localhost:1313/my-website1/posts/second-post/</loc>
+    <lastmod>2024-11-24T03:25:40+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-website1/</loc>
     <lastmod>2024-11-24T03:25:40+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-website1/categories/</loc>
